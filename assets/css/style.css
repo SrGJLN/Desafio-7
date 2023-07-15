@@ -30,7 +30,7 @@ aside {
   padding-left: 1.2rem;
 }
 .primary-text h3 {
-  margin: 1rem 0 0.5rem 0;
+  margin: 0rem 0 0.5rem 0;
   font-size: 1rem;
 }
 .primary-text p {
@@ -60,7 +60,9 @@ button:hover {
   border-bottom: #828485 solid 1px;
   padding: 0.7rem 1.25rem 0.7rem 1.6rem;
 }
-
+.contact-text {
+  padding: 0.7rem 1.25rem 0.7rem 1rem;
+}
 .contact img {
   height: 3rem;
   border-radius: 50%;
